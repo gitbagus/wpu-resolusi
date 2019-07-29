@@ -2,8 +2,6 @@ rencana konten wpu
 
 -javascript
   *3s
-  *angular
-  *react
-  
-
+  *vue
+- fundamental struktur data
 - php framework
