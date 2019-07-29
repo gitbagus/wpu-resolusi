@@ -2,5 +2,6 @@ rencana konten wpu
 
 -javascript
   *3s
+  *vue
 - fundamental struktur data
 - php framework
